@@ -6,3 +6,8 @@ def kurang(a, b):
 
 print("Hasil 5 + 3 =", tambah(5, 3))
 print("Hasil 10 - 4 =", kurang(10, 4))
+
+def perkalian(a, b):
+    return a * b
+
+print("Hasil 5 * 3 =", perkalian(5, 3))
